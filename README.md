@@ -1,0 +1,1 @@
+This notebook forecast the Year-over-year percent change in Brand Comparable Sales (also known as “Same Store Sales”) for Party City (NYSE: PRTY) for the period ending 12/31/2022, 3/31/2023, 6/30/2023, and 9/30/2023, using the provided transaction data and store location information
